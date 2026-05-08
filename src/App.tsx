@@ -1,11 +1,11 @@
 import React from 'react';
 
 function App() {
-  return (
-    <div>
-      <h1>foo</h1>
-    </div>
-  );
+    return (
+        <div>
+            <div className='text-3xl font-bold underline m-5 bg-amber-500'>Hello world!</div>
+        </div>
+    );
 }
 
 export default App;
